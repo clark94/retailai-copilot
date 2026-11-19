@@ -1,0 +1,57 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+      args:
+        INSTALL_VECTOR: ${INSTALL_VECTOR:-false}
+    ports:
+      - "127.0.0.1:8001:8000"
+    environment:
+      DATABASE_PATH: /app/runtime/retailai.db
+      VECTOR_DB_PATH: /app/runtime/chroma
+      RAG_BACKEND: ${RAG_BACKEND:-tfidf}
+      DEMO_API_TOKEN: ${DEMO_API_TOKEN:?Set DEMO_API_TOKEN in .env}
+      DEMO_ROLE: ${DEMO_ROLE:-analyst}
+      DEMO_ALLOWED_COUNTRIES: ${DEMO_ALLOWED_COUNTRIES:-France}
+      DEMO_ALLOWED_BRANDS: ${DEMO_ALLOWED_BRANDS:-Casanoov,Cazeboo,Sicaan}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENAI_MODEL: ${OPENAI_MODEL:-gpt-4o-mini}
+    volumes:
+      - retailai_runtime:/app/runtime
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    ports:
+      - "127.0.0.1:3000:3000"
+    environment:
+      API_INTERNAL_URL: http://api:8000
+    depends_on:
+      - api
+  ui:
+    build:
+      context: .
+      dockerfile: Dockerfile.ui
+    ports:
+      - "127.0.0.1:8503:8501"
+    environment:
+      API_URL: http://api:8000
+    depends_on:
+      - api
+  airflow:
+    profiles: ["orchestration"]
+    build:
+      context: .
+      dockerfile: Dockerfile.airflow
+    command: ["airflow", "standalone"]
+    ports:
+      - "127.0.0.1:8080:8080"
+    environment:
+      AIRFLOW__CORE__EXECUTOR: SequentialExecutor
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+    volumes:
+      - airflow_data:/opt/airflow/logs
+volumes:
+  retailai_runtime:
+  airflow_data:

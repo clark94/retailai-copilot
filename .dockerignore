@@ -1,0 +1,12 @@
+.env
+.git
+.venv
+__pycache__
+.pytest_cache
+runtime
+*.db
+frontend/node_modules
+frontend/.next
+*.zip
+credentials*.json
+service-account*.json

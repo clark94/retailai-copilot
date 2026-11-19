@@ -1,0 +1,8 @@
+name: retailai
+version: '1.0'
+config-version: 2
+profile: retailai
+model-paths: ['models']
+models:
+  retailai:
+    +materialized: view

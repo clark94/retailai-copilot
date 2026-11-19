@@ -1,0 +1,1 @@
+chromadb>=0.5,<2\nsentence-transformers>=3,<6\nopenai>=1,<3\n

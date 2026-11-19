@@ -1,0 +1,185 @@
+﻿LIGNE_EXCEL,ID_MOUVEMENT,CHAMP,TYPE_ANOMALIE,DETAIL
+2,MVT-0097,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+3,MVT-0014,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+4,MVT-0055,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+4,MVT-0055,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+6,MVT-0026,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+7,MVT-0137,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+9,MVT-0163,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+11,MVT-0156,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+13,MVT-0090,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+14,MVT-0059,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+15,MVT-0148,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+16,MVT-0073,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+17,MVT-0005,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+17,MVT-0005,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+18,MVT-0150,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+18,MVT-0150,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+19,MVT-0113,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+19,MVT-0113,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+20,MVT-0016,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+21,MVT-0049,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+22,MVT-0165,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+24,MVT-0053,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+24,MVT-0053,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+25,MVT-0077,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+26,MVT-0135,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+29,MVT-0052,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+29,MVT-0052,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+31,MVT-0057,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+33,MVT-0078,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+34,MVT-0103,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+34,MVT-0103,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+35,MVT-0037,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+36,MVT-0124,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+37,MVT-0157,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+37,MVT-0157,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+38,MVT-0104,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+39,MVT-0068,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+40,MVT-0105,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+41,MVT-0142,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+42,MVT-0119,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+43,MVT-0169,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+44,MVT-0092,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+44,MVT-0092,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+45,MVT-0038,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+46,MVT-0151,QUANTITE,VALEUR_MANQUANTE,"Quantité absente : conserver NULL, ne pas remplacer par zéro"
+46,MVT-0151,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+47,MVT-0120,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+49,MVT-0128,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+50,MVT-0144,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+50,MVT-0144,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+51,MVT-0058,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+52,MVT-0143,ID_MOUVEMENT,IDENTIFIANT_REPETE,Vérifier les mouvements portant le même identifiant; aucune suppression automatique
+52,MVT-0143,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+52,MVT-0143,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+53,MVT-0110,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+53,MVT-0110,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+54,MVT-0127,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+55,MVT-0112,ID_MOUVEMENT,IDENTIFIANT_REPETE,Vérifier les mouvements portant le même identifiant; aucune suppression automatique
+55,MVT-0112,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+56,MVT-0108,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+57,MVT-0116,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+58,MVT-0072,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+58,MVT-0072,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+60,MVT-0129,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+62,MVT-0094,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+62,MVT-0094,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+63,MVT-0109,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+63,MVT-0109,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+65,MVT-0098,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+66,MVT-0111,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+66,MVT-0111,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+67,MVT-0162,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+68,MVT-0008,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+69,MVT-0041,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+70,MVT-0039,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+71,MVT-0141,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+72,MVT-0123,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+73,MVT-0121,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+76,MVT-0033,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+77,MVT-0003,ID_MOUVEMENT,IDENTIFIANT_REPETE,Vérifier les mouvements portant le même identifiant; aucune suppression automatique
+78,MVT-0158,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+79,MVT-0003,ID_MOUVEMENT,IDENTIFIANT_REPETE,Vérifier les mouvements portant le même identifiant; aucune suppression automatique
+80,MVT-0074,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+81,MVT-0134,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+81,MVT-0134,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+82,MVT-0023,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+83,MVT-0164,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+83,MVT-0164,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+85,MVT-0035,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+85,MVT-0035,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+87,MVT-0061,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+89,MVT-0088,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+89,MVT-0088,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+90,MVT-0082,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+92,MVT-0046,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+94,MVT-0048,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+95,MVT-0042,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+95,MVT-0042,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+96,MVT-0080,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+96,MVT-0080,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+97,MVT-0029,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+98,MVT-0161,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+99,MVT-0166,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+102,MVT-0102,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+102,MVT-0102,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+103,MVT-0069,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+105,MVT-0114,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+107,MVT-0065,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+107,MVT-0065,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+108,MVT-0107,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+109,MVT-0139,ID_MOUVEMENT,IDENTIFIANT_REPETE,Vérifier les mouvements portant le même identifiant; aucune suppression automatique
+110,MVT-0146,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+111,MVT-0004,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+113,MVT-0091,QUANTITE,VALEUR_MANQUANTE,"Quantité absente : conserver NULL, ne pas remplacer par zéro"
+113,MVT-0091,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+115,MVT-0112,ID_MOUVEMENT,IDENTIFIANT_REPETE,Vérifier les mouvements portant le même identifiant; aucune suppression automatique
+115,MVT-0112,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+116,MVT-0043,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+116,MVT-0043,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+117,MVT-0143,ID_MOUVEMENT,IDENTIFIANT_REPETE,Vérifier les mouvements portant le même identifiant; aucune suppression automatique
+117,MVT-0143,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+117,MVT-0143,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+118,MVT-0095,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+118,MVT-0095,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+119,MVT-0139,ID_MOUVEMENT,IDENTIFIANT_REPETE,Vérifier les mouvements portant le même identifiant; aucune suppression automatique
+120,MVT-0167,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+121,MVT-0172,ID_MOUVEMENT,IDENTIFIANT_REPETE,Vérifier les mouvements portant le même identifiant; aucune suppression automatique
+121,MVT-0172,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+122,MVT-0155,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+123,MVT-0099,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+123,MVT-0099,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+124,MVT-0159,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+125,MVT-0096,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+126,MVT-0115,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+127,MVT-0100,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+128,MVT-0044,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+129,MVT-0071,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+130,MVT-0020,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+131,MVT-0067,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+131,MVT-0067,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+132,MVT-0171,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+133,MVT-0089,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+134,MVT-0145,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+136,MVT-0126,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+137,MVT-0168,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+138,MVT-0086,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+139,MVT-0140,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+140,MVT-0001,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+142,MVT-0125,QUANTITE,VALEUR_MANQUANTE,"Quantité absente : conserver NULL, ne pas remplacer par zéro"
+142,MVT-0125,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+142,MVT-0125,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+144,MVT-0138,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+145,MVT-0101,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+148,MVT-0160,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+149,MVT-0066,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+151,MVT-0031,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+152,MVT-0172,ID_MOUVEMENT,IDENTIFIANT_REPETE,Vérifier les mouvements portant le même identifiant; aucune suppression automatique
+152,MVT-0172,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+153,MVT-0152,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+153,MVT-0152,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+154,MVT-0093,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+155,MVT-0021,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+155,MVT-0021,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+156,MVT-0075,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+157,MVT-0130,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+160,MVT-0083,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+162,MVT-0060,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+162,MVT-0060,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+163,MVT-0034,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+166,MVT-0015,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+166,MVT-0015,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+167,MVT-0050,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+167,MVT-0050,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+168,MVT-0154,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+168,MVT-0154,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+170,MVT-0149,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+172,MVT-0076,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+173,MVT-0132,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+174,MVT-0024,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+175,MVT-0170,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+176,MVT-0136,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+177,MVT-0133,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable
+177,MVT-0133,DELAI_LIVRAISON_JOURS,VALEUR_ABSENTE_A_VERIFIER,Peut être non applicable à une sortie
+178,MVT-0013,DATE_EXPIRATION,VALEUR_ABSENTE_A_VERIFIER,Peut être normal pour un produit non périssable

@@ -1,0 +1,10 @@
+retailai:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: YOUR_GCP_PROJECT_ID
+      dataset: retailai_demo
+      threads: 2
+      location: EU

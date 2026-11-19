@@ -1,0 +1,16 @@
+version: 2
+sources:
+  - name: retailai_raw
+    schema: retailai_demo
+    tables:
+      - name: ventes_raw
+        columns:
+          - name: id_commande
+            tests: [not_null, unique]
+models:
+  - name: sales_by_brand
+    columns:
+      - name: marque
+        tests: [not_null, unique]
+      - name: ca_eur
+        tests: [not_null]
